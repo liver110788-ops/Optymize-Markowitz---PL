@@ -9,14 +9,23 @@ Jako aktywa wybrano 12 instrumentów dużych spółek i aktywów rynkowych: AAPL
 Na podstawie historycznych cen należy:
 
 obliczyć stopy zwrotu dla każdego aktywa;
+
 określić średnią oczekiwaną stopę zwrotu aktywów;
+
 zbudować macierz kowariancji stóp zwrotu;
+
 obliczyć ryzyko oraz oczekiwaną stopę zwrotu różnych kombinacji aktywów;
+
 znaleźć portfel minimalnego ryzyka;
+
 znaleźć portfel maksymalnej stopy zwrotu;
+
 znaleźć portfel maksymalnej stopy zwrotu przy zadanym poziomie ryzyka;
+
 znaleźć portfel o maksymalnym współczynniku Sharpe’a;
+
 zbudować granicę efektywną Markowitza;
+
 porównać otrzymane portfele i sformułować wnioski dotyczące najbardziej racjonalnej struktury inwestycji.
 
 Dlaczego wybrałem właśnie ten projekt
